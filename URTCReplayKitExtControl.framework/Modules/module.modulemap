@@ -1,0 +1,6 @@
+framework module URTCReplayKitExtControl {
+  umbrella header "URTCReplayKitExtControl.h"
+
+  export *
+  module * { export * }
+}
