@@ -30,6 +30,11 @@ NS_ASSUME_NONNULL_BEGIN
 + (instancetype)shared;
 
 /**
+ @brief 当前版本号
+ */
++ (NSString *)currentVersion;
+
+/**
  @brief Containning app 结束录屏回调
 
  @param appGroup App group ID
