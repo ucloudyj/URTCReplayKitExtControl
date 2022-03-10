@@ -36,7 +36,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 /**
  @brief Containning app 结束录屏回调
-
  @param appGroup App group ID
  @param delegate 结束录制回调
  */
@@ -59,7 +58,6 @@ NS_ASSUME_NONNULL_BEGIN
  @discussion 通过系统控制中心停止录屏时，会回调 RPBroadcastSampleHandler.broadcastFinished，在 broadcastFinished 方法中调用
  */
 - (void)broadcastFinished;
-
 
 /**
  @brief 发送视频到Containning app
