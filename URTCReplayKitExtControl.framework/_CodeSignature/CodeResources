@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/URTCReplayKitExtControl.h</key>
 		<data>
-		WzWxGKo9YT2dWElmnDEWhD82O0Y=
+		TGW68eTzK40FmArYIPfIxojqGwQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Fr5t/t6+vtdj6Te9QLr1ZCazwl4=
+		Ad2QuXmj8iCLiZgxHiha3PEogsk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -21,13 +21,21 @@
 	<dict>
 		<key>Headers/URTCReplayKitExtControl.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			TGW68eTzK40FmArYIPfIxojqGwQ=
+			</data>
 			<key>hash2</key>
 			<data>
-			8nJxvcJPN0+gL2vNoGCcYDxMKvTOp3YrtPia3wqnPic=
+			M96AsY3JVB9Ldoj6dkBpPdZeGU8AW8iF6OClLAGLUUo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			JfgKDk8lVg/iIItrIjoqP4Ncfac=
+			</data>
 			<key>hash2</key>
 			<data>
 			Lo0Z0/Nu3uEOwu7od8B2ntQJKfr7UH7luB/8tO3gy9w=
